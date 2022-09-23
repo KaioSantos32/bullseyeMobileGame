@@ -7,7 +7,11 @@
     <string name="hit_me_button">Hit Me</string>
 
 
-    <string name="result_dialog_title">Dialog Title</string>
-    <string name="result_dialog_message">The slider\'s value is %1$d</string>
-    <string name="result_dialog_button_text">Awesome</string>
+    <string name="result_dialog_title_right">CONGRATS!!!</string>
+    <string name="result_dialog_message_right">BULLSEYE!!! \n Your score is %1$d</string>
+    <string name="result_dialog_button_text_right">Awesome</string>
+
+    <string name="result_dialog_title_wrong">BAAAAAAD</string>
+    <string name="result_dialog_message_wrong">YOU MISSED!!!\nThe your guess was %1$d. \nYour score is %2$d</string>
+    <string name="result_dialog_button_text_wrong">Try Again</string>
 </resources>
